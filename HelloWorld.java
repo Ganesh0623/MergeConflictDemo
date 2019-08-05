@@ -1,12 +1,15 @@
 public class A
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public static void add()
     {
 
 System.out.println("Add Method");
 
     }
+=======
+>>>>>>> parent of cfeb1c9... by Yash
 =======
 >>>>>>> parent of cfeb1c9... by Yash
 
@@ -19,6 +22,7 @@ System.out.println("Hello World");
  
 System.out.println("Hello World");
 <<<<<<< HEAD
+<<<<<<< HEAD
     add();
 <<<<<<< HEAD
     
@@ -27,6 +31,8 @@ System.out.println("Hello World");
 =======
     //sddcv 
 >>>>>>> c4379aa847ba085136f8c3a55fcb6c6aac93f9c6
+=======
+>>>>>>> parent of cfeb1c9... by Yash
 
 
 }
